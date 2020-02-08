@@ -1,0 +1,32 @@
+_repo: Trotwood-s-Monthly-Vol-I-No-6-March-1906_61215
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Moore, John Trotwood
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '25956'
+    url: http://www.gutenberg.org/2009/agents/25956
+    wikipedia: https://en.wikipedia.org/wiki/John_Trotwood_Moore
+description: ''
+gutenberg_issued: '2020-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Horses -- Periodicals'
+- !lcsh 'Agriculture -- Southern States -- Periodicals'
+- !lcsh 'Southern States -- Periodicals'
+- GITenberg
+title: Trotwood's Monthly, Vol. I, No. 6. March, 1906
+url: http://www.gutenberg.org/ebooks/61215
